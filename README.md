@@ -1,7 +1,10 @@
-I have been involved in programming for 10 years and have been working full-time as a developer for the past 5 years. My expertise lies in TypeScript, Python, and C, with a particular focus on web applications. I have solid experience with Vue, Django, and FastAPI, and I am also familiar with Nuxt and Tailwind. I have a keen interest in both frontend and backend development, and I am currently learning deep learning techniques. My passion for coding drives me to continually improve my skills and stay updated with the latest technological advancements.
+I’m a Software Engineer and Tech Lead with 7+ years of experience building and operating production systems, particularly in fintech and real-time transaction environments.
 
+My core expertise lies in TypeScript and Python, with a strong focus on backend architecture, distributed systems, and cloud-native applications. I’ve led the design of scalable, low-latency services that integrate with payment processors, hardware devices, and external partners under strict security and reliability constraints.
 
-<!---
-andresstbn/andresstbn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have solid experience across the stack with technologies like NestJS, Django, FastAPI, React, Vue, and Nuxt, and I’m comfortable working across frontend, backend, and infrastructure when needed.
+
+Currently, I’m focused on system design, microservices architecture, and high-throughput systems, while continuing to explore areas like machine learning and advanced system optimization.
+
+I enjoy solving complex problems, making pragmatic architectural decisions, and continuously refining both systems and teams.
+
