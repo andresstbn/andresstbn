@@ -1,4 +1,4 @@
-I’m a Software Engineer and Tech Lead with 7+ years of experience building and operating production systems, particularly in fintech and real-time transaction environments.
+I’m a Software Engineer and Tech Lead with 6+ years of experience building and operating production systems, particularly in fintech and  transaction environments.
 
 My core expertise lies in TypeScript and Python, with a strong focus on backend architecture, distributed systems, and cloud-native applications. I’ve led the design of scalable, low-latency services that integrate with payment processors, hardware devices, and external partners under strict security and reliability constraints.
 
